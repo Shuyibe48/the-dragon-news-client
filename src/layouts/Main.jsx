@@ -9,7 +9,7 @@ const Main = () => {
     return (
         <div>
             <Header />
-            <Container className='text-center'>
+            <Container>
                 <Row>
                     <Col lg={3}>
                         <LeftNav />

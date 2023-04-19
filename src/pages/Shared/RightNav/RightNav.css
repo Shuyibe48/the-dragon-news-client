@@ -1,0 +1,14 @@
+.bg-img{
+    position: relative;
+}
+.bg-img-text{
+    position: absolute;
+    top: 150px;
+    right: 40px;
+}
+.bg-img-text h4{
+    color: #fff;
+}
+.bg-img-text p{
+    color: #fff;
+}
